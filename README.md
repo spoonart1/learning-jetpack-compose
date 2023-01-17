@@ -1,3 +1,7 @@
+# Setup Android Studio to Support Compose
+https://docs.google.com/document/d/1lt-Cgq9g43ipdMVRj5MrL0KPrHj0nPAz0ykPtD_YwZg
+
+
 # Build an App With Jetpack Compose
 - Learn how to create compose component
 - Understand how to add new activity
